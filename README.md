@@ -1,0 +1,1 @@
+# Tugas-latihan-Metode-Tsukamoto-Metode-Mamdani-Metode-Sugeno-dan-ANFIS
